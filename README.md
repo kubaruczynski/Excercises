@@ -1,7 +1,5 @@
 # Exercises
 
------
-
 ### Hi there!
 
 Seems like you've found yourself some programming exercises to do. 
