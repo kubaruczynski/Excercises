@@ -61,7 +61,7 @@ Console.WriteLine($"Area of circle with radius {radius} will be: {area:N2}");
 ```
 </details>
 
-### 2. Calculate the area of the circle
+### 2. Calculate the segment of area of the circle
 
 <details>
     <summary>
@@ -71,19 +71,30 @@ Console.WriteLine($"Area of circle with radius {radius} will be: {area:N2}");
 <img src="https://latex.codecogs.com/svg.image?{\color{Golden}A=\frac{\alpha*r^2}2}" title="area of circle" />
 </details>
 
-### Rest of problems
+### 3. Calculate the system of linear equations (ax + by = e; cx + dy = f)
 
-3. Calculate the system of linear equations (ax + by = e; cx + dy = f)
-4. Program calculating the relative position of the straight line in relation to the circle
-5. List all the divisors of the given number
-6. Calculate the number of PI
-7. Calculate LCM of two numbers
-8. Calculate the GCD of two numbers
-9. Check that the number is perfect
-10. List prime numbers up to a given number
-11. Calculate strongly
-12. Calculate the sine
-13. Calculate the bisection function
-14. Compute more bisection functions
-15. The scalar product
-16. Counting the homer polynomial
+### 4. Program calculating the relative position of the straight line in relation to the circle
+
+### 5. List all the divisors of the given number
+
+### 6. Calculate the number of PI
+
+### 7. Calculate the LCM of two numbers
+
+### 8. Calculate the GCD of two numbers
+
+### 9. Check that the number is perfect
+
+### 10. List prime numbers up to a given number
+
+### 11. Calculate factorial
+
+### 12. Calculate the sine
+
+### 13. Calculate the bisection function
+
+### 14. Compute more bisection functions
+
+### 15. The scalar product
+
+### 16. Counting the homer polynomial
